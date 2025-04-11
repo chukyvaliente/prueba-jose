@@ -45,6 +45,11 @@
 		               		 "url" : "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
 			                  "referer" : "https://daddylive.mp/" ,
                                           "isHost" : "true"
+                        }, {
+                           "name": "Movistar LaLiga",
+			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
+		 "url" : "https://windnew.newkso.ru/wind/premium84/mono.m3u8",
+             "userAgent":"Mozilla/5.0"
                     }, {
                       "name" : "jeinmacias",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
