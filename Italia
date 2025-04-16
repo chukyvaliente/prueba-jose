@@ -1,6 +1,6 @@
 {
 	"name": "Italia",
-    "author": "14/04/2025 ",
+    "author": "16/04/2025 ",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -25,6 +25,12 @@
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
                "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
       "url" : "https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1Yjk3NGExZTE2YjY3LTEyMWEtN2Y3NC00NTFhLTkxYjY3MGQx/master.m3u8 ",
+            "userAgent" : ""
+                        },{
+                    "name": "Campeones ACStream",
+			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
+               "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
+      "url" : "http://127.0.0.1:6878/ace/m/8c1c3eae077f3a786ed2f0a426197ea93fdf7373/7037231c7e9044fb8b3021c308aae169.m3u8 ",
             "userAgent" : ""
                         }, {
                       "name" : "daddy-vamos",
