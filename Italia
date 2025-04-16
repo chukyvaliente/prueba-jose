@@ -30,7 +30,12 @@
                     "name": "Campeones ACStream",
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
                "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url" : "http://127.0.0.1:6878/ace/m/8c1c3eae077f3a786ed2f0a426197ea93fdf7373"
+      "url" : "http://127.0.0.1:6878/acestream/8c1c3eae077f3a786ed2f0a426197ea93fdf7373"
+                      },{
+                    "name": "Campeones ACStream",
+			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
+               "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
+       "url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
                         }, {
                       "name" : "daddy-vamos",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
