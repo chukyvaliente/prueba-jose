@@ -1,6 +1,6 @@
 {
 	"name": "Italia",
-    "author": "17/04/2025 ",
+    "author": "27/05/2025 ",
     "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -20,6 +20,13 @@
                "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
       "url" : "https://streamsvv1.su/global/player.php?channel=hypermotion",
             "isHost" : "true"
+   }, {
+      "name": "TNT Sports Premium Chile (TuTvLive) | CL 🇨🇱",
+                    "image": "https://i.imgur.com/3dcdndh.png",
+                    "url": "https://ntv.tutvlive.info/canaltv.php?ch=https://tutvlive.xyz/mpd/tvfhd.php?sTL4?id=cdf",
+                   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36",
+      "playInNatPlayer": "true",
+      "embed": "true"
                },{
                     "name": "Barça",
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
