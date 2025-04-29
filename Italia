@@ -38,13 +38,12 @@
           "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
           "info": "a2cc",
           "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-          "url": "acestream://8c1c3eae077f3a786ed2f0a426197ea93fdf7373"
+          "url": "acestream:http://127.0.0.1:6878/ace/m/83d43d89061d3790c1a9938a967ce8734a0bd6ce/d11a5026d81a88c374a713d67f893d1a.m3u8"
                         },{
                     "name": "Campeones ACStream",
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
                "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url" : "http://127.0.0.1:6878/ace/m/8c1c3eae077f3a786ed2f0a426197ea93fdf7373/7037231c7e9044fb8b3021c308aae169 .m3u8",
-"userAgent" : "VLC"
+       "url": "acestream://http://83d43d89061d3790c1a9938a967ce8734a0bd6ce"
                       },{
                     "name": "Campeones ACStream",
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
