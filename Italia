@@ -34,6 +34,11 @@
     "url" : "https://streamtp4.com/global2.php?stream=tudn_usa", 
                          "referer" : "https://phd3.live/",
 			"isHost" : "true"
+                           }, {
+          "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
+          "info": "a2cc",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://8c1c3eae077f3a786ed2f0a426197ea93fdf7373"
                         },{
                     "name": "Campeones ACStream",
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
