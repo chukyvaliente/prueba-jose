@@ -15,16 +15,17 @@
             "image": "https://i.pinimg.com/originals/d9/5b/d7/d95bd72dfe5171e56fec87040e59fb9c.gif",
             "info": "𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​©",
             "stations": [{
-                    "name": "Sanremo 2025",
-			"image": "https://i.ibb.co/WvdGmCK7/5863988956436219835.jpg",
+                    "name": "Rai 1",
+			"image": "https://thumbs.dreamstime.com/b/rai-uno-logo-132330942.jpg",
                "info" : " 𝓑𝓎: 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url" : "https://streamsvv1.su/global/player.php?channel=hypermotion",
+      "url" : http://www.freeintertv.com/externals/showlive/?ch=cmFpMQ==",
+            "referer" : "http://www.freeintertv.com/modules/View/screen.php?nametv=Rai+Uno+TV+%28Italy%29&idtv=1711&TVSESS=cpop15mcpdsq9ahcf8na0sf9h2",
             "isHost" : "true"
    }, {
-      "name": "TNT Sports Premium Chile (TuTvLive) | CL 🇨🇱",
-                    "image": "https://i.imgur.com/3dcdndh.png",
-                    "url": "https://yv.nudecorvees.com/r0ByO1XQJMkGr5/69521",
-     "isHost" : "true"
+      "name": "Rai 1",
+                    "image": "https://thumbs.dreamstime.com/b/rai-uno-logo-132330942.jpg",
+                    "url": "	https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+     "userAgent" : ""
                },{
                     "name": "prueba onlive.sx",
 			"image": "https://upload.wikimedia.org/wikipedia/it/a/a6/Grande_Fratello_logo.png",
